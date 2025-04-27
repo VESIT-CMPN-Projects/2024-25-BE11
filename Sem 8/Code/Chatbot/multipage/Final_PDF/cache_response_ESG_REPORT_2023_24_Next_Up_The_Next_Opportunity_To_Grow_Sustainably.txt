@@ -1,0 +1,28 @@
+### Risk Analysis Table
+
+| Risk Category | Summary of Risk | Potential Impact | Likelihood (Low/Medium/High) | Mitigation Strategy |
+|---|---|---|---|---|
+| Environmental Risks: Greenhouse Gas Emissions | Lack of comprehensive Scope 3 emissions data across the entire supply chain. | Reputational damage, regulatory fines, difficulty meeting emission reduction targets. | Medium | Implementing a system to track Scope 3 emissions across a large panel of suppliers;  supplier engagement and capacity-building programs to encourage responsible business practices. |
+| Environmental Risks: Water Usage |  Potential for significant water usage in operations and supply chain (not explicitly stated but implied by focus on water conservation). |  Negative environmental impact, operational disruptions due to water scarcity, reputational damage. | Medium |  Implementing low-water design in buildings and operations;  integrated water management approach to minimize water impacts. |
+| Social Risks: Supplier and Vendor Labor Practices | Potential for human rights violations or unethical labor practices within the supply chain. | Reputational damage, legal liabilities, operational disruptions. | Medium |  Third-party managed services provider to assess suppliers and guide their efforts in incorporating responsible business practices;  supplier self-assessments and capacity-building programs;  ESG learning channel for suppliers. |
+| Governance Risks: ESG Disclosures and Reporting |  Potential for inaccuracies or incompleteness in ESG reporting, leading to a lack of transparency. |  Investor distrust, regulatory scrutiny, reputational damage. | Medium | Enhanced sustainability reporting with streamlined data and automated emissions reporting;  use of Gen AI ESG analytics solution for accurate GHG emission calculations. |
+
+
+### Positive Indicators Table
+
+| Positive Factor | Current Status | Strategic Impact |
+|---|---|---|
+|  Commitment to Net-Zero Emissions |  Signing of The Climate Pledge, aiming for net-zero by 2040;  disclosure of environmental information through CDP for eight consecutive years;  Science Based Target initiative (SBTi). |  Improved environmental performance, enhanced brand reputation, attracting environmentally conscious investors. |
+|  Supplier Engagement on ESG |  ESG assessments of 328 top suppliers;  ESG learning channel for suppliers;  third-party managed services provider to assess and guide suppliers on responsible business practices. |  Improved supply chain sustainability, reduced risk of human rights violations and unethical labor practices. |
+|  Robust Governance Structure |  ESG Committee of the Board;  ESG council reporting to the committee;  Enterprise Risk Management framework encompassing ESG risks;  whistleblower mechanism. |  Improved risk management, increased transparency and accountability, enhanced stakeholder trust. |
+|  Data-Driven ESG Initiatives |  Use of Gen AI ESG analytics solution for ESG data extraction and analysis;  integrated data platform for sustainability data capture and reporting for real estate tenants. |  Improved data accuracy and efficiency in ESG reporting and decision-making. |
+
+
+### Negative Indicators Table
+
+| Negative Factor | Current Status | Strategic Impact |
+|---|---|---|
+|  Lack of Comprehensive Scope 3 Emissions Data |  Limited Scope 3 emissions data available, highlighting a gap in supply chain emissions tracking. |  Inability to accurately assess and reduce overall carbon footprint;  potential for regulatory non-compliance and reputational damage. |
+|  Potential for Water Usage Issues |  While water conservation measures are mentioned, the overall water usage and its impact are not fully disclosed. |  Potential for negative environmental impact and operational disruptions due to water scarcity. |
+
+
